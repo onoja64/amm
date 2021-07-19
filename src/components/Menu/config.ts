@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.vikingswap.finance/'
+    href: 'https://goofy-noether-a1cd3d.netlify.app/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.vikingswap.finance/farms'
+    href: 'https://goofy-noether-a1cd3d.netlify.app/'
   },
   {
     label: 'Armory',
     icon: 'PoolIcon',
-    href: 'https://www.vikingswap.finance/nests'
+    href: 'https://goofy-noether-a1cd3d.netlify.app/'
   },
   {
     label: 'Info',
