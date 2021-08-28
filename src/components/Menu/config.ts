@@ -21,16 +21,7 @@ const config: MenuEntry[] = [
       }
     ]
   },
-  {
-    label: 'Vision',
-    icon: 'FarmIcon',
-    href: 'https://goofy-noether-a1cd3d.netlify.app/'
-  },
-  {
-    label: 'Chart',
-    icon: 'PoolIcon',
-    href: 'https://goofy-noether-a1cd3d.netlify.app/'
-  },
+  
   {
     label: 'Info',
     icon: 'InfoIcon',
