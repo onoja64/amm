@@ -22,12 +22,12 @@ const config: MenuEntry[] = [
     ]
   },
   {
-    label: 'Farms',
+    label: 'Vision',
     icon: 'FarmIcon',
     href: 'https://goofy-noether-a1cd3d.netlify.app/'
   },
   {
-    label: 'Armory',
+    label: 'Chart',
     icon: 'PoolIcon',
     href: 'https://goofy-noether-a1cd3d.netlify.app/'
   },
